@@ -5,7 +5,8 @@
 Visual Studio 2019
 
 ## ------------运行------------
-运行文档中的Bp.cpp即可
+修改double x[3] = { 1,1,0 };和	double y = 1;的值；
+运行Bp.cpp即可
 
 ## 各文件内容如下：
 ### 1）Bp.h:
@@ -16,4 +17,3 @@ Visual Studio 2019
 ### 2) Bp.cpp:
 void BPNet::backword(double out_exp)函数:
 计算隐含层及输出层的调整值
- 
